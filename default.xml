@@ -14,9 +14,9 @@
            sync-j="4" />
 
   <!-- project：path 下载后的本地路径，name 相对远程路径，完整路径为 remote.fetch + project.name -->
-  <project remote="origin" path="Libs/ElementKit" name="EK/elementkit.git" />
-  <project remote="origin" path="Core" name="CDCORE/chatdailycore.git" />
-  <project remote="origin" path="Bizs/ChatDailyMain" name="CDMAIN/chatdailymain.git" />
+  <project remote="github" path="Libs/ElementKit" name="ElementKit.git" />
+  <project remote="github" path="Core" name="FastNoteCore.git" />
+  <project remote="github" path="Bizs/ChatDailyMain" name="FastNoteMain.git" />
 
 
   <!--Libs -->
