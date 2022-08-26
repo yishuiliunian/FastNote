@@ -4,6 +4,7 @@
   <!-- remote: name 名称，fetch 远程地址 -->
   <remote name="origin"
           fetch="http://www.catchitime.com:8081/diffusion/"/>
+  <!-- xxxx -->
   <!-- Add by yishuiliuniain -->
 
   <remote name="github"
